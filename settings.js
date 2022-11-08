@@ -8,10 +8,10 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	'https://zenzapis.xyz': 'Stay Low-key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤It's Her Ex,I Am Alive Now😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -31,16 +31,16 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+26776673092'] // owner number
 global.ownername = "😎Tesslar" // owner name
-global.ytname = "" // yt chanel name
+global.ytname = "" "Ex's" // yt chanel name
 global.socialm = "GitHub: tesslarrupiyah-0008 " // github or insta name
 global.location = "LA. Xl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `123456-png ` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
-global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.callblock = "true" // call block "true" / "false" ("true"  to block callers)
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
@@ -106,7 +106,7 @@ global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
 global.ntilinkytvid = []
-global.ntilinkytch = []
+global.removemember = ["kick@"]
 global.ntilinkig = []
 global.ntilinkfb = []
 global.ntilinktg = []
@@ -124,7 +124,7 @@ global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
 
-
+R
 
 
 
